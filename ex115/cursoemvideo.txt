@@ -1,0 +1,4 @@
+Rivan;30
+Roque;70
+Maria Jose;35
+Pedro;2
