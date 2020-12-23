@@ -22,3 +22,4 @@ for indice, valor in enumerate(lista):
     if valor == menorValor:
         print(f'O menor valor digitado foi {menorValor} na posição {indice+1}')
 print('Fim do Programa!')
+print('Feliz Natal')
