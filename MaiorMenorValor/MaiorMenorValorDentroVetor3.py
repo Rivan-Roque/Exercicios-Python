@@ -21,3 +21,4 @@ for indice, valor in enumerate(lista):
         print(f'O maior valor digitado foi {maiorValor} na posição {indice+1}')
     if valor == menorValor:
         print(f'O menor valor digitado foi {menorValor} na posição {indice+1}')
+print('Fim do Programa!')
